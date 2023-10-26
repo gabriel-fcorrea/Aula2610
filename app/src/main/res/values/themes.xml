@@ -5,6 +5,7 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorSecondary">@color/colorSecundary</item>
+        <item name="android:layout_gravity">center_horizontal</item>
     </style>
 
     <style name="Theme.MyApp" parent="Base.Theme.MyApp" />
