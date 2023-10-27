@@ -6,7 +6,13 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorSecondary">@color/colorSecundary</item>
         <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:textColor">@color/corFonte</item>
+        <item name="textAllCaps">true</item>
     </style>
 
-    <style name="Theme.MyApp" parent="Base.Theme.MyApp" />
+    <style name="Theme.MyApp" parent="Base.Theme.MyApp">
+        <item name="colorPrimary">#2c2c2c</item>
+        <item name="colorSecondary">#2e2e2e</item>
+        <item name="colorAccent">#2a2a2a</item>
+    </style>
 </resources>
